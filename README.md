@@ -13,7 +13,6 @@ Developer, London</h3>
 <h4 align="center">About Me</h4>
 
 - 💰 Recent LSE Economics graduate
-- 📈 Self-taught programmer & data enthusiast
 - 🐍 Back end focused mainly in Python
 - 🧘🏽 Currently working on personal data collection
 - ⏩ Always interested in ways to automate my life
