@@ -61,3 +61,6 @@ This projects scrapes all the data from a Google job search query. As Google Job
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
