@@ -57,10 +57,3 @@ This projects scrapes all the data from a Google job search query. As Google Job
 
 [Pinterest Data Pipeline](https://github.com/gabriella-martin/Pinterest-Data-Pipeline): TBC
   
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
