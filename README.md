@@ -46,9 +46,9 @@ Developer, London</h3>
   
   <h4 align="center">Current Projects</h4>
 
-[Personal Dashboard](https://github.com/gabriella-martin/Interactive-Dashboar): This project is a automatic data pipeline to data visualisation that retrieves data from three important categories in my life. Health is pipelined with iOs shortcuts & PyiCloud, Productivity from a time-tracking REST API and Personal from ToDoist API, the data is then processed with Pandas. Panel is used for visualisation alongside Hvplot, Bokeh & Holoviews. The dashboard is then supplemented with my personal favourite public REST API's
+[Personal Dashboard](https://github.com/gabriella-martin/Interactive-Dashboard): This project is a automatic data pipeline to data visualisation that retrieves data from three important categories in my life. The technologies used include Streamlit, Pandas, Pyplot, multiple REST API's and iOS Shortcuts. See the dashboard [here](https://gabriella-martin-interactive-dashboard-welcome-9hpibj.streamlit.app/)
 
-**Technologies Used**: Python, REST API, Pandas, Hvplot, Bokeh, Holoviews & Panel
+**Technologies Used**: Python, REST API's, Pandas, Pyplot, Streamlit, iOS Shortcuts, PyiCloud & etc
 
 [Web Scraping](https://github.com/gabriella-martin/Web-Scraping): 
 This projects scrapes all the data from a Google job search query. As Google Jobs has no API and is a complex, dynamic webpage, Selenium is used to simulate a front-end user. This data was then processed and added to an excel spreadsheet
