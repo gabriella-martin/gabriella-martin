@@ -17,7 +17,7 @@ Developer, London</h3>
 - 🧘🏽 Currently working on personal data collection
 - ⏩ Always interested in ways to automate my life
 - 📱 Coding journey began with Alexa, Smart Home, IFTTT & iOs Shortcuts
-- 🐾 Lover of dogs, proud mother to three
+- 🐾 Lover of dogs
 - 🎵 Ex resident DJ who loves an occasional set
 
 
