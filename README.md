@@ -14,7 +14,8 @@ Developer, London</h3>
 
 - 🌎 Recent LSE Economics graduate
 - 🐍 Back end focused mainly in Python
-- 📊 Currently working on data collection & visualisation
+- 📊 Always working on data collection & visualisation
+- 🧡 Currently training at AiCore
 
 ---
 
