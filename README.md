@@ -51,13 +51,19 @@ Developer, London</h3>
 - **Technologies Used**: Python, Git, API's, Apple Shortcuts, Pandas, Streamlit & Plotly
 - **API's Used**: Exist, Withings, PyiCloud, TrackingTime, WakaTime, AirTable, Spotify, ToDoist, FootballAPI, TFL & Weather
 
+---
+
 [Web Scraping](https://github.com/gabriella-martin/Web-Scraping): This projects scrapes all the data from a Google job search query. As Google Jobs has no API and is a complex, dynamic webpage, Selenium is used to simulate a front-end user. This data is then processed and added to an excel spreadsheet for custom tracking of jobs. Data analysis is done on the jobs to figure the most in-demand technologies for that particular job role
 
 - **Technologies Used:** Python, Selenium, ChromeDriver, Openpyxl & Docker
 
+---
+
 [Manchester United](https://github.com/gabriella-martin/Manchester-United): Daily updated scraping of 22-23 PL statistics at the player and club level stored in PostgreSQL on AWS RDS. The app connects to the database to serve data on how Manchester United compare to their PL opponents.
   
 - **Technologies Used:** Python, Git, AWS S3, AWS RDS, PostgreSQL, Psycopg2, Pandas, Streamlit, Plotly, Requests & BeautifulSoup
+
+---
 
 [Political News](https://github.com/gabriella-martin/Political-News): This app's aim is to reduce political polarisation by web-scraping information from popular news outlets across the political spectrum using requests, parsing through the HTML with BeautifulSoup to retrieve the relevant data and showcasing this data using the Streamlit library for Python
 
